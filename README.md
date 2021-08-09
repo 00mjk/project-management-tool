@@ -1,4 +1,4 @@
-# project-management
+# project-management-tool
 
 - Project management tool (gantt chart) that tracks projects
 
